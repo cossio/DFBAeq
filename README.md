@@ -28,4 +28,4 @@ Julia packages:
  - DataFrames.jl, Gurobi.jl, ArgParse.jl (install with `Pkg.add("PkgName")`)
 
 
-**If you have any questions or have trouble using the scripts, please file an issue.**
+**If you have any questions or have trouble using the scripts, please file an issue. I'll be around :)**
