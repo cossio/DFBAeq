@@ -25,7 +25,8 @@ Python packages:
  - scipy, argparse, pandas (available through `pip`)
 
 Julia packages:
- - DataFrames.jl, Gurobi.jl, ArgParse.jl (install with `Pkg.add("PkgName")`)
+ - DataFrames.jl, Gurobi.jl (*), ArgParse.jl (install with `Pkg.add("PkgName")`)
 
+(*) We used Gurobi because it supports hierarchical multi-objective linear programming. But the same can be achieved with any solver by optimizing two objectives in succession.
 
 **If you have any questions or have trouble using the scripts, please file an issue or feel free to contact me directly (my email is on the paper). I'll be more than happy to help.**
